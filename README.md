@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Nandakesore J
+### Name: Kumarteja N
 
-### Register Number: 212223240103
+### Register Number: 212223230132
 
 ```python
 import torch
@@ -73,7 +73,7 @@ model=Model(1,1)
 initial_weight=model.linear.weight.item()
 initial_bias=model.linear.bias.item()
 print("\nName: Kumarteja N")
-print("\nRegister No: 21222320132")
+print("\nRegister No: 212223230132")
 print(f"Initial Weight: {initial_weight:.8f} , Initial Bias: {initial_bias:.8f}\n")
 
 loss_function=nn.MSELoss()
