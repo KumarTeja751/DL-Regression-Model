@@ -124,14 +124,14 @@ print(f"Predicted for x=120: {y_new_pred:.8f}")
 ```
 
 ## Dataset Information
-<img width="773" height="619" alt="image" src="https://github.com/user-attachments/assets/6a12829d-133b-475e-ac90-d6359f3811de" />
-<img width="576" height="110" alt="image" src="https://github.com/user-attachments/assets/d38c01a8-27b8-49a2-b121-f722a9b6db21" />
+<img width="717" height="568" alt="image" src="https://github.com/user-attachments/assets/6fa28930-a0cb-495d-9c89-3a59e69677c4" />
+<img width="539" height="120" alt="image" src="https://github.com/user-attachments/assets/2817da70-9d84-4eeb-9ec6-3d50783612be" />
 
 ## OUTPUT
 ### Training Loss Vs Iteration Plot
-<img width="214" height="92" alt="image" src="https://github.com/user-attachments/assets/e5ccbdfc-84cc-47ba-8f20-ff4ffa9f39c8" /><br>
-<img width="793" height="618" alt="image" src="https://github.com/user-attachments/assets/8f2f20d7-e35c-466a-bfd4-7873819471d5" /><br>
-<img width="277" height="120" alt="image" src="https://github.com/user-attachments/assets/b22ecb76-2c82-4789-984f-89a7c08525a6" /><br>
+<img width="203" height="83" alt="image" src="https://github.com/user-attachments/assets/3df62011-edb4-4f28-b511-4aeeba851b87" />
+<img width="735" height="573" alt="image" src="https://github.com/user-attachments/assets/3d46ba6c-b4e5-4924-ab9e-5fc6d9177aa2" />
+<img width="285" height="120" alt="image" src="https://github.com/user-attachments/assets/07a57071-cbc9-47bb-a66d-97a7b46d4aa3" />
 
 
 
